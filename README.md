@@ -22,6 +22,7 @@ Imma Jp!! 🇯🇵🇯🇵🇯🇵
 ---
 
 ---Real Lang---
+
 Main Lang - Ja
 
 Larn Lang - Ch
