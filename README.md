@@ -7,7 +7,7 @@ copy and Pasta?🤔
   <img alt="Followers" src="https://img.shields.io/github/followers/yutodadil?style=for-the-badge&logo=stylelint&color=blueviolet">
   <img src="https://komarev.com/ghpvc/?username=yutodadil&style=for-the-badge&logo=Streamlit&color=blueviolet&logo=Bookmeter">
   <img alt="Total Stars" src="https://img.shields.io/github/stars/yutodadil?style=for-the-badge&logo=Streamlit&color=blueviolet">
-  Thanks All myFans!!
+  <br>Thanks All myFans!!
 </p>
 
 ---
