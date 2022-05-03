@@ -60,6 +60,6 @@ Thanks Watching my Profile.
   </a>
 ---
 ## Ads
-Join iCaramel(N3ko)'s Server.<br>
+Join iCaramel(N3k0)'s Server.<br>
 .gg/miaou<br>
 not a dsc.gg, discord.gg.
