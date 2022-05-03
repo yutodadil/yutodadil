@@ -55,4 +55,6 @@ Thanks Watching my Profile.
 ---
 <br>Please Igrone This.</br>
 <br>
+<a href="https://github.com/yutodadil">
 <img src="https://discordapp.com/api/guilds/970751743589752883/widget.png?style=banner4" alt="Discord Banner 4"/>
+  </a>
