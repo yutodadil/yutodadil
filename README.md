@@ -9,9 +9,12 @@ copy and Pasta?🤔
   <img alt="Total Stars" src="https://img.shields.io/github/stars/yutodadil?style=for-the-badge&logo=Streamlit&color=blueviolet">
   Thanks All myFans!!
 </p>
+
 ---
 ## About Me
 ![Metrics](https://metrics.lecoq.io/yutodadil?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen)
+---
+
 ```md
 ▓██   ██▓ █    ██ ▄▄▄█████▓ ▒█████  ▓█████▄  ▄▄▄      ▓█████▄  ██▓ ██▓    
  ▒██  ██▒ ██  ▓██▒▓  ██▒ ▓▒▒██▒  ██▒▒██▀ ██▌▒████▄    ▒██▀ ██▌▓██▒▓██▒    
@@ -24,4 +27,5 @@ copy and Pasta?🤔
  ░ ░        ░                  ░ ░     ░          ░  ░   ░     ░      ░  ░
  ░ ░                                 ░                 ░                  
  ```
+ 
 Thanks Watching my Profile.
