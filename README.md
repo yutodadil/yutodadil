@@ -62,4 +62,4 @@ Thanks Watching my Profile.
 ## Ads
 Join iCaramel(N3k0)'s Server.<br>
 .gg/miaou<br>
-not a dsc.gg, discord.gg.
+not a dsc.gg, its a discord.gg.
