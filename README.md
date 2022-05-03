@@ -58,3 +58,8 @@ Thanks Watching my Profile.
 <a href="https://github.com/yutodadil">
 <img src="https://discordapp.com/api/guilds/970751743589752883/widget.png?style=banner4" alt="Discord Banner 4"/>
   </a>
+---
+## Ads
+Join iCaramel(N3ko)'s Server.
+.gg/miaou
+not a dsc.gg, discord.gg.
