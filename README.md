@@ -55,4 +55,4 @@ Thanks Watching my Profile.
 ---
 <br>Please Igrone This.</br>
 <br>
-<img src="https://discord.com/widget?id=970751743589752883&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+<img src="https://discordapp.com/api/guilds/970751743589752883/widget.png?style=banner4" alt="Discord Banner 4"/>
