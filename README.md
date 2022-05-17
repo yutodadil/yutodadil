@@ -31,7 +31,7 @@ Larn Lang - Ch
 
 Main Write - Python
 
-Learn Lang - JavaScript, Java, Kotlin, Crystal
+Learn Lang - JavaScript, Java, Kotlin, Crystal, Go
 
 Hate Lang - Asm & C(That is not something that people can read.)
 
