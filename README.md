@@ -25,7 +25,7 @@ Imma Jp!! 🇯🇵🇯🇵🇯🇵
 
 Main Lang - Ja
 
-Larn Lang - Ch
+Larn Lang - Ch, Kr
 
 ---Computer Lang---
 
