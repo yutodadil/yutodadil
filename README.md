@@ -29,9 +29,9 @@ Larn Lang - Ch, Kr
 
 ---Computer Lang---
 
-Main Write - Python
+Main Write - Python, Njs
 
-Learn Lang - JavaScript, Java, Kotlin, Crystal, Go
+Learn Lang - TypeScript, Java, Kotlin, Crystal, Go
 
 Hate Lang - Asm & C(That is not something that people can read.)
 
