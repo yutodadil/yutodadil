@@ -90,7 +90,33 @@ Hate Lang - Asm, C++                               ░░██░░▒▒▒�
 
 ---
 
-```md
+simplified version
+```python
+from milkey_crypto import Aboutme
+import world_wide_web as www
+
+class Myself(Aboutme):
+    def __init__(self):
+        super.__init__()
+    
+    def life(self):
+        lifeinfo = {}
+        lifeinfo['age'] = "shhhhhhhhh, no."
+        lifeinfo['languages'] = "Japanese"
+        lifeinfo['location'] = www.Internet
+        lifeinfo['fun_fact'] = "A my discord friend used Whonix stopped contacting me after a week, probably because he was arrested.(Tails is Best)"
+        
+        return lifeinfo
+
+    def contact(self):
+        contactinfo = {}
+        contactinfo['discord'] = "美流来#2440"
+        contactinfo['other'] = "sorry, no.\nI don't want to tell."
+        
+        return comtactinfo
+        
+        
+print("""
 ▓██   ██▓ █    ██ ▄▄▄█████▓ ▒█████  ▓█████▄  ▄▄▄      ▓█████▄  ██▓ ██▓    
  ▒██  ██▒ ██  ▓██▒▓  ██▒ ▓▒▒██▒  ██▒▒██▀ ██▌▒████▄    ▒██▀ ██▌▓██▒▓██▒    
   ▒██ ██░▓██  ▒██░▒ ▓██░ ▒░▒██░  ██▒░██   █▌▒██  ▀█▄  ░██   █▌▒██▒▒██░    
@@ -101,6 +127,8 @@ Hate Lang - Asm, C++                               ░░██░░▒▒▒�
  ▒ ▒ ░░   ░░░ ░ ░   ░      ░ ░ ░ ▒   ░ ░  ░   ░   ▒    ░ ░  ░  ▒ ░  ░ ░   
  ░ ░        ░                  ░ ░     ░          ░  ░   ░     ░      ░  ░
  ░ ░                                 ░                 ░                  
+ """)
+ 
  ```
  
 Thanks Watching my Profile.
