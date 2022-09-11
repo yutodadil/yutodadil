@@ -111,7 +111,7 @@ class Myself(Aboutme):
 
     def contact(self):
         contactinfo = {}
-        contactinfo['discord'] = "美流来#2440" # If you want id, this 938726110189985803 discord.id to change to usernamea#tag format
+        contactinfo['discord'] = "美流来#2440" # If you want id? this, 938726110189985803 discord.id to change to usernamea#tag format
         contactinfo['other'] = "sorry, no.\nI don't want to tell."
         
         return comtactinfo
