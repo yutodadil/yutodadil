@@ -16,7 +16,7 @@ copy and Pasta?🤔
 ## About Me
 <a href="https://github.com/yutodadil">
 <img src="https://metrics.lecoq.io/yutodadil?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen">
- <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=500&color=C4A7F7&center=true&vCenter=true&width=435&lines=Milkey_Crypto;yutodadil;%E7%BE%8E%E6%B5%81%E6%9D%A5%232440" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=500&color=C4A7F7&center=true&vCenter=true&width=435&lines=Milkey_Crypto;yutodadil;milkey_saurus" alt="Typing SVG" />
 </a>
 
 ```md
@@ -111,7 +111,7 @@ class Myself(Aboutme):
 
     def contact(self):
         contactinfo = {}
-        contactinfo['discord'] = "美流来#2440" # If you want id? this, 938726110189985803 discord.id to change to usernamea#tag format
+        contactinfo['discord'] = "milkey_saurus"
         contactinfo['other'] = "sorry, no.\nI don't want to tell."
         
         return contactinfo
@@ -133,15 +133,3 @@ print("""
  ```
  
 Thanks Watching my Profile.
-
----
-<br>Please Igrone This.</br>
-<br>
-<a href="https://github.com/yutodadil">
-<img src="https://discordapp.com/api/guilds/970751743589752883/widget.png?style=banner4" alt="Discord Banner 4"/>
-  </a>
----
-## Ads
-Join iCaramel(N3k0)'s Server.<br>
-.gg/miaou<br>
-not a dsc.gg, its a discord.gg.
